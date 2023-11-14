@@ -1,15 +1,15 @@
 {
-               "name": "forzen-md",
+               "name": "WASI-TECH",
                "version": "1.0.5",
-               "description": "Multi device whatsapp bot by Yasiya.",
+               "description": "Multi device whatsapp bot by WASI.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Forzen-Md",
-                "stop": "pm2 stop Forzen-Md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name wasi-Md",
+                "stop": "pm2 stop wasi-Md"
                 },
-               "author": "Yasiya-OFC",
+               "author": "Wasi-OFC",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -99,10 +99,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/yasiyaofc1/FORZEN-MD.git"
+                 "url": "git+https://github.com/itxmewasi/wasi-tech-bot.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/yasiyaofc1/FORZEN-MD/issues"
+                 "url": "https://github.com/itxmewasi/wasi-tech-bot/issues"
                   },
-                 "homepage": "https://github.com/yasiyaofc1/FORZEN-MD#readme"
+                 "homepage": "https://github.com/itxmewasi/wasi-tech-bot#readme"
                   }
