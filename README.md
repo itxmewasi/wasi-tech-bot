@@ -1,16 +1,16 @@
   <div align="center">
     
-## ❄️ 𝑭𝑶𝑹𝒁𝑬𝑵 𝑴𝑫 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑩𝑶𝑻 ❄️ 
+##  𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈 
 
-##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=17202A&lines=🌸+Version+1+.+0+🌸;🌸+Version+1+.+0+🌸)](https://git.io/typing-svg)
+##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=17202A&lines=+Version+1+.+0+;+Version+1+.+0+)](https://git.io/typing-svg)
 
 
  <p align="center">  
- <a href="[https://telegra.ph/file/953048fb3aa3aae12a12a.jpg](https://telegra.ph/file/0b5a7839e8ee21874921e.jpg)">
-    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/0b5a7839e8ee21874921e.jpg">
+ <a href="[https://telegra.ph/file/c2a96304ed049d001dd73.jpg](https://telegra.ph/file/c2a96304ed049d001dd73.jpg)">
+    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
 
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝑭𝑶𝑹𝒁𝑬𝑵+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ʏᴀsɪʏᴀ+ᴏғғɪᴄɪᴀʟ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ʏᴀsɪʏᴀ+ᴀɴᴅ+ɪɴᴅᴜᴡᴀʀᴀ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ᴄʏʙᴇʀ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WASI+TECH:+WHATSAPP+BOT+CREATED;BY+WASI+)](https://git.io/typing-svg)
 
 
 ![forks](https://img.shields.io/github/forks/yasiyaofc1/FORZEN-MD?label=Forks&style=social)
@@ -18,7 +18,7 @@
 ![stars](https://img.shields.io/github/stars/yasiyaofc1/FORZEN-MD?style=social)
 
 ----------
-<a aria-label="Join our chats" href="https://chat.whatsapp.com/L2i6oDCjljt4mtBTUvTh7t" target="_blank">
+<a aria-label="Join our chats" href="https://chat.whatsapp.com/I1FymAZqrigItemS57hB88" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Supporter Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -46,27 +46,27 @@
 
 ----------
 ㅤ
-## **`💃 FORZEN MD BOT OWNERS,`**
+## **``𝐌𝐎𝐃𝐈𝐅𝐄𝐑 𝐎𝐅 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓,`**
 ㅤ
 
 
-🤹‍♂️|**[`YASIYA OFC`]**|
+🤹‍♂️|**[`𝐓𝐇𝐄 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 ]**|
 
  <p align="center">  
- <a href="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
-    <img alt="FORZEN MD MD OWNER" height="80" src="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
+ <a href="https://telegra.ph/file/c2a96304ed049d001dd73.jpg">
+    <img alt="wasi MD MD OWNER" height="80" src="https://telegra.ph/file/c2a96304ed049d001dd73.jpg">
 
-**[» Contact For](https://wa.me/+94760018802)**
+**[» Contact For](https://wa.me/+923192173398)**
 ㅤ
  ㅤ
  ---
-⚜️|**[`MR INDUVARA`]**|
+⚜️|**[`𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈`]**|
 
  <p align="center">  
- <a href="[https://telegra.ph/file/f477e530b93d866c664b1.jpg](https://telegra.ph/file/903e16f9effd8de11cc76.jpg)">
-    <img alt="FORZEN MD OWNER" height="80" src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg">
+ <a href="[https://telegra.ph/file/a9520b23d65cb75394fae.jpg](https://telegra.ph/file/a9520b23d65cb75394fae.jpg)">
+    <img alt="wasi MD OWNER" height="80" src="https://telegra.ph/file/a9520b23d65cb75394fae.jpg">
  
-**[» Contact For](https://wa.me/+94719735716)**
+**[» Contact For](https://wa.me/+923431774796)**
 ㅤ
 ㅤㅤㅤ
 ---
