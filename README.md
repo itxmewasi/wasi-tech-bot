@@ -7,15 +7,15 @@
 
  <p align="center">  
  <a href="[https://telegra.ph/file/c2a96304ed049d001dd73.jpg](https://telegra.ph/file/c2a96304ed049d001dd73.jpg)">
-    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
+    <img alt="WASI MD" height="300" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
 
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WASI+TECH:+WHATSAPP+BOT+CREATED;BY+WASI+)](https://git.io/typing-svg)
 
 
-![forks](https://img.shields.io/github/forks/yasiyaofc1/FORZEN-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/yasiyaofc1/WASI-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/yasiyaofc1/FORZEN-MD?style=social)
+![stars](https://img.shields.io/github/stars/yasiyaofc1/WASI-MD?style=social)
 
 ----------
 <a aria-label="Join our chats" href="https://chat.whatsapp.com/I1FymAZqrigItemS57hB88" target="_blank">
@@ -34,7 +34,7 @@
 
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/yasiyaofc1/FORZEN-MD/fork)***
+●.  ***Click [FORK](https://github.com/yasiyaofc1/WASI-MD/fork)***
 
 ## ```SCAN QR CODE```
 [![SCAN QR](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@wasiofc/WAS-I-TECH-BOT)
@@ -42,7 +42,7 @@
 
 
 ## ```HEROKU DEPLOYMENT```
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasiyaofc1/FORZEN-MD)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasiyaofc1/WASI-MD)
 
 ----------
 ㅤ

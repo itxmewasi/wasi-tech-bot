@@ -5,7 +5,7 @@
  It is supplied in the hope that it may be useful.
  * @project_name : WASI-TECH-BOT 
  * @author : WASI TECH<>
- * @description : FORZEN-MD,A Multi-functional whatsapp bot.
+ * @description : WASI-MD,A Multi-functional whatsapp bot.
  * @version 1.0.0
  **/
 

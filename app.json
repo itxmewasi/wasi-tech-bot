@@ -2,7 +2,7 @@
   "name": "WASI-TECH-BOT",
   "description": "A Whatsapp md bot built in NodeJs to make experience better created by wasi TECH",
   "logo": "https://telegra.ph/file/37a786d7965fa2309c464.jpg",
-  "keywords": ["nodejs", "bot", "FORZEN-MD", "YASIYA-OFC", "INDUWARA", "Secktor","YASIYA","theme bot","multi device","baileys","Sam Pandey"],
+  "keywords": ["nodejs", "bot", "WASI-MD", "YASIYA-OFC", "INDUWARA", "Secktor","YASIYA","theme bot","multi device","baileys","xIKRATOSx"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -76,8 +76,8 @@
     "value": "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are FORZEN-MD (DON'T CHANGE THIS)",
-     "value": "FORZEN-MD"
+    "description": "Put the theme name you want to use. Avilable themes are WASI-MD (DON'T CHANGE THIS)",
+     "value": "WASI-MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
