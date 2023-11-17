@@ -39,6 +39,10 @@
 ## ```SCAN QR CODE```
 [![SCAN QR](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@wasiofc/WAS-I-TECH-BOT)
 
+***USE THIS PUBLIC MANGODB IF YOU DON'T HAVE***
+```
+mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
+```
 
 
 ## ```HEROKU DEPLOYMENT```
