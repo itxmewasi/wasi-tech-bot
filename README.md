@@ -2,7 +2,7 @@
     
 ##  𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈 
 
-##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=17202A&lines=+Version+1+.+0+;+Version+1+.+0+)](https://git.io/typing-svg)
+##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFFFF&center=true&lines=Version+1+.+0;Thanks+To+xIKRATOSx+For+Help;Give+star+and+forks+this+Repo+:D;Follow+My+Github)](https://git.io/typing-svg)
 
 
  <p align="center">  
@@ -10,12 +10,12 @@
     <img alt="WASI MD" height="300" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
 
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WASI+TECH:+WHATSAPP+BOT+CREATED;BY+WASI+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&center=true&lines=WASI+TECH;WHATSAPP+BOT+CREATED;BY+WASI+)](https://git.io/typing-svg)
 
 
-![forks](https://img.shields.io/github/forks/yasiyaofc1/WASI-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/itxmewasi/wasi-tech-bot?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/yasiyaofc1/WASI-MD?style=social)
+![stars](https://img.shields.io/github/stars/itxmewasi/wasi-tech-bot?style=social)
 
 ----------
 <a aria-label="Join our chats" href="https://chat.whatsapp.com/I1FymAZqrigItemS57hB88" target="_blank">
@@ -34,7 +34,7 @@
 
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/yasiyaofc1/WASI-MD/fork)***
+●.  ***Click [FORK](https://github.com/itxmewasi/wasi-tech-bot/fork)***
 
 ## ```SCAN QR CODE```
 [![SCAN QR](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@wasiofc/WAS-I-TECH-BOT)
@@ -42,7 +42,7 @@
 
 
 ## ```HEROKU DEPLOYMENT```
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasiyaofc1/WASI-MD)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itxmewasi/wasi-tech-bot)
 
 ----------
 ㅤ
@@ -67,6 +67,14 @@
     <img alt="wasi MD OWNER" height="80" src="https://telegra.ph/file/a9520b23d65cb75394fae.jpg">
  
 **[» Contact For](https://wa.me/+923431774796)**
+
+
+<h1 align="center">THANKS TO</h1>
+<p align="left">
+<a href="https://github.com/xIKRATOSx"><img src="https://github.com/xIKRATOSx.png" width="100" height="100" alt="xIKRATOSx"/></a>  <a href="https://github.com/yasiyaofc1"><img src="https://github.com/yasiyaofc1.png" width="100" height="100" alt="xIKRATOSx"/></a> <a href="https://github.com/SamPandey001"><img src="https://github.com/SamPandey001.png" width="100" height="100" alt="xIKRATOSx"/></a>
+</p> 
+
+----------
 ㅤ
 ㅤㅤㅤ
 ---
