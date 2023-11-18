@@ -2,7 +2,7 @@
     
 ##  𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈 
 
-##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFFFF&center=true&lines=Version+1+.+0;Thanks+To+xIKRATOSx+For+Help;Give+star+and+forks+this+Repo+:D;Follow+My+Github)](https://git.io/typing-svg)
+##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=0000FF&center=true&lines=Version+1+.+0;Thanks+To+xIKRATOSx+For+Help;Give+star+and+forks+this+Repo+:D;Follow+My+Github)](https://git.io/typing-svg)
 
 
  <p align="center">  
