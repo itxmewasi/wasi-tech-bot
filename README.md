@@ -7,7 +7,7 @@
 
  <p align="center">  
  <a href="[https://telegra.ph/file/c2a96304ed049d001dd73.jpg](https://telegra.ph/file/c2a96304ed049d001dd73.jpg)">
-    <img alt="WASI MD" height="500" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
+    <img alt="WASI MD" height="200" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
 
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&center=true&lines=WASI+TECH;WHATSAPP+BOT+CREATED;BY+WASI+)](https://git.io/typing-svg)
