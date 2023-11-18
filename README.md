@@ -7,7 +7,7 @@
 
  <p align="center">  
  <a href="[https://telegra.ph/file/c2a96304ed049d001dd73.jpg](https://telegra.ph/file/c2a96304ed049d001dd73.jpg)">
-    <img alt="WASI MD" height="300" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
+    <img alt="WASI MD" height="500" src="https://telegra.ph/file/81f6f6589d112ab5dd974.jpg">
 
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&center=true&lines=WASI+TECH;WHATSAPP+BOT+CREATED;BY+WASI+)](https://git.io/typing-svg)
@@ -58,23 +58,13 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 
  <p align="center">  
  <a href="https://telegra.ph/file/c2a96304ed049d001dd73.jpg">
-    <img alt="wasi MD MD OWNER" height="80" src="https://telegra.ph/file/c2a96304ed049d001dd73.jpg">
+    <img alt="wasi MD MD OWNER" height="100" src="https://telegra.ph/file/c2a96304ed049d001dd73.jpg">
 
 **[» Contact For](https://wa.me/+923192173398)**
 ㅤ
- ㅤ
- ---
-⚜️|**[`𝐃𝐀𝐑𝐊 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐖𝐀𝐒𝐈`]**|
-
- <p align="center">  
- <a href="[https://telegra.ph/file/a9520b23d65cb75394fae.jpg](https://telegra.ph/file/a9520b23d65cb75394fae.jpg)">
-    <img alt="wasi MD OWNER" height="80" src="https://telegra.ph/file/a9520b23d65cb75394fae.jpg">
- 
-**[» Contact For](https://wa.me/+923431774796)**
-
 
 <h1 align="center">THANKS TO</h1>
-<p align="left">
+<p align="center">
 <a href="https://github.com/xIKRATOSx"><img src="https://github.com/xIKRATOSx.png" width="100" height="100" alt="xIKRATOSx"/></a>  <a href="https://github.com/yasiyaofc1"><img src="https://github.com/yasiyaofc1.png" width="100" height="100" alt="xIKRATOSx"/></a> <a href="https://github.com/SamPandey001"><img src="https://github.com/SamPandey001.png" width="100" height="100" alt="xIKRATOSx"/></a>
 </p> 
 
